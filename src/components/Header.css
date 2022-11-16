@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
+
+.num{
+    background: #FDAE82;
+     border-radius:  30px;
+    padding: 1px;
+    margin-right: 10px;
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    width: 25px;
+    height: auto;
+    position: absolute;
+    top: 3px;
+    left: 70px; 
+    height: 26px;
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 0.02em;
+    text-align: left;
+
+    /* width: 25px;
+    left: 270px;
+    top: 0px;
+    border-radius: 30px;
+    padding: 0px 18px 0px 18px; */
+    
+ }
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 90px;
+    padding: 25px 35px;
+    position: sticky;
+    z-index: 10;
+    top: 0;
+    width: 1279px;
+    
+}
+.ma--icon{
+    object-fit: contain;
+    height: 30px;
+}
+.midHead ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: 'poppins';
+    gap: 30px;
+    background-color: white;  
+    height: 25px;
+    width: 386px;
+    margin-left: 210.5px;
+    top: 3px;
+    border-radius: 30px;
+    padding: 14px 70px 14px 70px;
+    box-shadow: 0px 4px 4px 0px #1ED70026;   
+}
+.active{
+    color: #FDAE82;
+}
+.midHead ul #i{
+    color: #545454;
+    cursor: pointer;
+}
+.midHead ul #ii{
+    color: #545454;
+    cursor: pointer;
+    
+}
+.midHead ul #iii{
+    color: #545454;
+    cursor: pointer;
+}
+.rightHead{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 25px;
+    
+}
+.rightHead h5{
+    font-family: 'poppins';
+     
+    font-size: 15px;
+}
+.cartbtn{
+    height: 55px;
+    width: 89px;
+    left: 206px;
+    top: 0px;
+    border-radius: 30px;
+    box-shadow: 0px 4px 4px 0px #1ED70026;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+
+}

@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+
+
+
+.bookstore{
+    width: 1349px;
+    height: 191vh;
+    overflow : hidden;
+}
+.bscover1{
+    background: url('https://drive.google.com/uc?export=view&id=1CQoyr47SDJeL582bUrrsqYCR2VlOp021');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: fit-content;
+}
+.bscover1 .rightHead{
+ 
+     display: none;
+
+}
+.bscover1 .bsimg{
+    
+      
+    padding-left: 168px;
+    padding-top: 90px;
+    padding-bottom: 50px;
+    
+}
+.bkstorebooks{
+    padding-top: 50px;
+     overflow: hidden;
+    display: flex;
+     gap: 70px;
+    flex-wrap: wrap;
+    padding-bottom: 129px;
+   
+}
+.bscover2{
+    padding-left: 168px;
+   
+
+}
+.bscover2 p{
+    font-family: 'Poppins';
+font-size: 16px;
+font-weight: 400;
+line-height: 33px;
+letter-spacing: 0em;
+text-align: left;
+color: #545454;
+
+}
+.bscover2 button{
+    height: 50px;
+    width: 190px;
+  
+    top: 0px;
+    border : 0px;
+    padding: 10px 10px 10px 10px;
+    background: #1ED700;
+    font-family: 'Poppins';
+    font-size: 20px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+.bscover2 input{
+    width: 365px;
+    height: 46px;
+    padding: 0 31px ;
+    font-family: 'poppins';
+ 
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0.01em;
+    text-align: left;
+
+
+}
+.bscover3{
+    display: flex;
+    
+     
+    
+    margin-top: 16px;
+    margin-bottom: 90px;
+    border-radius: 0px;
+  
+ 
+}

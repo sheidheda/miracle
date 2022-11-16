@@ -1,0 +1,49 @@
+
+
+.footer{
+    
+    background: url('https://drive.google.com/uc?export=view&id=1pMvJeHKZsyx51vXmTNt1Fi2uIdtYAwKk') 
+    #1E1E1E;
+    height: 793px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-y: 50% ;
+    
+    padding-top: 1%;
+}
+.footitem1 h1{
+    
+    height: 36px;
+    width: 294px;
+    padding-left: 166px;
+    padding-top: 178px;
+    color: aliceblue;
+
+}
+.instadem{
+    color: white;
+    height: 36px;
+    width: 162px;
+    padding-left: 166px;
+    padding-top: 250px;
+    font-family: 'Poppins';
+    font-size: 15px;
+     
+    line-height: 36px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    
+
+}
+.instadem ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 162px;
+    gap: 20px;
+    margin-left: -25%;
+}
+.instadem li{
+    cursor: pointer;
+}

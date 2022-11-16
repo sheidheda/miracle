@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
+
+.bkcover1{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 67px;
+    margin: 0 169px;
+    box-sizing: border-box;
+    
+}
+.bkcover2{   
+    width: 322px;
+    
+}
+.bkcover2 p{
+    height: 36px;
+    width: 230px;
+    font-family: 'Poppins';
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: 0.01em;
+    text-align: left;
+}
+.bkbuttons button{
+    height: 56px;
+    width: 322px;
+    left: 168px;
+    top: 662px;
+    border-radius: 0px;
+    padding: 10px 24px 10px 24px;
+    cursor: pointer;
+
+}
+.bkbuttons #i{
+    background: #221414;
+    font-family: 'Poppins';
+    font-size: 24px;
+    color: #f3f3f3;
+    margin-right: 15px;
+    border: none;
+}
+.bkbuttons #ii{
+    background: #f3f3f3;
+    font-family: 'Poppins';
+    font-size: 15px;
+    color: #1E1E1E;
+    border: 1px solid #1E1E1E;
+}
