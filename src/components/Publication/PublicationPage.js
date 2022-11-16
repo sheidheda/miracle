@@ -1,7 +1,8 @@
 import React from 'react'
 import Header from '../Header'
+
 import './PublicationPage.css'
-import typevid from '../../Assets/typevid.mp4'
+
 import Publication from './Publication'
 import FileDownloadOutlinedIcon from '@mui/icons-material/FileDownloadOutlined';
 import cv from '../../Assets/cv.pdf'
@@ -13,7 +14,7 @@ function PublicationPage() {
             
             <Header />
 
-            <video src={typevid} autoPlay loop muted />
+            <video src="https://drive.google.com/uc?export=view&id=1XbXUMRaO6wu1OD0RJAmvltIiUC8taevS" autoPlay loop muted />
             <div className="pubtitledem">
                 <img src="https://drive.google.com/uc?export=view&id=13hW_V-IV_JEIZkSbTjtKsIhD762_WJ_8" alt="" />
                 <p>These publications are the result of my interest in theological studies and the desire to expose the shortcomings of our religious system in order to nurture a more progressive Christian community.</p>
