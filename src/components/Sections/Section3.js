@@ -16,7 +16,7 @@ function Section3() {
  
         </div>
         <div className="s3-item2">
-            <img src="https://drive.google.com/uc?export=view&id=16ftJ9jfKKbnmCiU6kap8_osnPbFlhTqb" alt="" />
+            <img src="https://drive.google.com/uc?export=view&id=16ftJ9jfKKbnmCiU6kap8_osnPbFlhTqb" alt="" loading="lazy" />
         </div>
     </div>
   )

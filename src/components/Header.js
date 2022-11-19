@@ -9,7 +9,7 @@ function Header() {
   return (
     <div className='header'>
         <div className="leftHead">
-        <Link to='/' style={{ color: 'inherit', textDecoration: 'inherit'}}><img src="https://drive.google.com/uc?export=view&id=1F3VDQtHK8Yi-Ec_qu2MZI09zy8p0BK8R" alt="MA" className='ma--icon' /></Link>
+        <Link to='/' style={{ color: 'inherit', textDecoration: 'inherit'}}><img src="https://drive.google.com/uc?export=view&id=1F3VDQtHK8Yi-Ec_qu2MZI09zy8p0BK8R" alt="MA" className='ma--icon' loading="lazy" /></Link>
         </div>
         <div className="midHead">
             <ul>

@@ -9,7 +9,7 @@ function Bookstore() {
     <div className='bookstore'>
         <div className="bscover1">
             <Header />
-            <img src="https://drive.google.com/uc?export=view&id=1MB19oxjer8S9KgfulGIUpG3f1d_oNcEo" alt="" className='bsimg'/>  
+            <img src="https://drive.google.com/uc?export=view&id=1MB19oxjer8S9KgfulGIUpG3f1d_oNcEo" alt="" className='bsimg' loading="lazy"/>  
         </div>
         <div className="bkstorebooks">
             <Book />

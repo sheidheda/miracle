@@ -16,7 +16,7 @@ function PublicationPage() {
 
             <video src="https://drive.google.com/uc?export=view&id=1XbXUMRaO6wu1OD0RJAmvltIiUC8taevS" autoPlay loop muted />
             <div className="pubtitledem">
-                <img src="https://drive.google.com/uc?export=view&id=13hW_V-IV_JEIZkSbTjtKsIhD762_WJ_8" alt="" />
+                <img src="https://drive.google.com/uc?export=view&id=13hW_V-IV_JEIZkSbTjtKsIhD762_WJ_8" alt="" loading="lazy"/>
                 <p>These publications are the result of my interest in theological studies and the desire to expose the shortcomings of our religious system in order to nurture a more progressive Christian community.</p>
             </div>
         </div>

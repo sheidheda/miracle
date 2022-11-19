@@ -36,7 +36,7 @@ function Book() {
         {items.map((item)=>(
             <div className="bkcover2">
                 <div>
-                    <img src={item.image} alt=""   />
+                    <img src={item.image} alt=""  loading="lazy" />
                 </div>
                 <p>{item.title}</p>
                 <p>Price: ₦ {item.price}</p>

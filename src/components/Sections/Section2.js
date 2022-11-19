@@ -8,7 +8,7 @@ function Section2() {
   return (
     <div className='section2'>
       <div className="s2-item1">
-        <img src="https://drive.google.com/uc?export=view&id=1KEZaKcT37rFD0w6PCMdOCTWPIJcnjWQM" alt="" />
+        <img src="https://drive.google.com/uc?export=view&id=1KEZaKcT37rFD0w6PCMdOCTWPIJcnjWQM" alt="" loading="lazy"/>
       </div>
       <div className="s2-item2">
           <h1>A ROYAL PRIESTHOOD</h1>

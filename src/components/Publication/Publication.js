@@ -36,7 +36,7 @@ function Publication() {
         {items.map((item)=>(
             <div className="publiccover2">
                 <div>
-                    <img src={item.image} alt=""   />
+                    <img src={item.image} alt="" loading="lazy"  />
                 </div>
                 <div className="p2side">
                     <div className="p2side1">

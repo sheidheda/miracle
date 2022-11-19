@@ -45,7 +45,7 @@ export default function Buybtn() {
          
         <DialogContent>
            
-          <img src="https://drive.google.com/uc?export=view&id=1eGLY-y7ct2oEyZNIvRTwS9Z9GWKDWik7" alt="paystack image" className='paystack-img'/>
+          <img src="https://drive.google.com/uc?export=view&id=1eGLY-y7ct2oEyZNIvRTwS9Z9GWKDWik7" alt="paystack image" className='paystack-img' loading="lazy"/>
             <h3>You are being redirected to paystack</h3>
             <a href="https://paystack.com/buy/a-royal-priesthood-vbmdcm" target="_blank" rel="noopener noreferrer">
 
