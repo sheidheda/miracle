@@ -1,6 +1,6 @@
 import React from 'react'
 import './App.css';
-import { Routes, Route, Link } from "react-router-dom";
+import { Routes, Route, } from "react-router-dom";
 import Header from './components/Header';
 import Footer from './components/Footer';
 import Section1 from './components/Sections/Section1';
@@ -20,8 +20,8 @@ function App() {
     <div className="App1">
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="publications" element={<PublicationPage />} /> 
-        <Route path="bookstore" element={<Bookstore />} /> 
+        <Route path="/publications" element={<PublicationPage />} /> 
+        <Route path="/bookstore" element={<Bookstore />} /> 
       </Routes>
     <div className="copyright">
         <p>Copyright © 2022 MiracleAjah.com. All rights reserved.</p>
