@@ -47,7 +47,7 @@ export default function Buybtn() {
            
           <img src="https://drive.google.com/uc?export=view&id=1eGLY-y7ct2oEyZNIvRTwS9Z9GWKDWik7" alt="paystack image" className='paystack-img' loading="lazy"/>
             <h3>You are being redirected to paystack</h3>
-            <a href="https://paystack.com/buy/a-royal-priesthood-vbmdcm" target="_blank" rel="noopener noreferrer">
+            <a href="https://paystack.com/buy/a-royal-priesthood-ttuibi" target="_blank" rel="noopener noreferrer">
 
             <button className='paystack-btn'>
                 Find more books  
