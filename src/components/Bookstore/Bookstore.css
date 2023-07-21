@@ -4,7 +4,7 @@
 
 
 .bookstore{
-    width: 1349px;
+    /* width: 1349px; */
     height: 191vh;
     overflow : hidden;
 }
@@ -12,7 +12,7 @@
     background: url('https://drive.google.com/uc?export=view&id=1CQoyr47SDJeL582bUrrsqYCR2VlOp021');
     background-repeat: no-repeat;
     background-size: cover;
-    width: fit-content;
+    /* width: fit-content; */
 }
 .bscover1 .rightHead{
  
