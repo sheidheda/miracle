@@ -11,6 +11,10 @@ import Section4 from './components/Sections/Section4';
 import PublicationPage from './components/Publication/PublicationPage';
 import Bookstore from './components/Bookstore/Bookstore';
 import ScrollToTop from './ScrollToTop';
+import MobileHeader from './components/Mobile/MobileHeader';
+
+
+
 
 function App() {
   return (
@@ -52,19 +56,13 @@ function Home() {
 // FOR MOBILE VIEW
   if (isMobile) {
     return (
-      <div className="App">
-      <div className="c1">
-        <Header />
-        <Section1 />
+      <div>
+      <MobileHeader />
+      <h5>wweeeweewe</h5>
+      <h1>NOOOOOOOOOOO</h1>
+      <h1>NOOOOOOOOOOO</h1>
+      <h1>NOOOOOOOOOOO</h1>
       </div>
-      
-      <Section2 />
-      <Section3 />
-      <Section4 />
-      <Footer />
-
-
-    </div>
     );
   } 
   
