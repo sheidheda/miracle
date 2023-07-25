@@ -30,7 +30,7 @@ function App() {
         </Routes>
         <div className="copyright">
           <p>Copyright © 2022 MiracleAjah.com. All rights reserved.</p>
-        </div>
+        </div> 
       </div>
     </ScrollToTop>
   )
@@ -57,18 +57,18 @@ function Home() {
   if (isMobile) {
     return (
       <div className="App">
-      <div className="c1">
-        <Header />
-        <Section1 />
+        <div className="c1">
+          <Header />
+          <Section1 />
+        </div>
+        
+        <Section2 />
+        <Section3 />
+        <Section4 />
+        <Footer />
+
+
       </div>
-      
-      <Section2 />
-      <Section3 />
-      <Section4 />
-      <Footer />
-
-
-    </div>
     );
   } 
   
